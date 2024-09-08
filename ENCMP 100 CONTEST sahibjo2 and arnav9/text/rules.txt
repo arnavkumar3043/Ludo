@@ -1,0 +1,15 @@
+Here are the basic rules of Ludo:
+
+Setup: Enter the number of players. Each player selects a color and places their four game pieces, or "tokens," in their respective starting area. The starting area is one of the four corners of the board.
+
+Objective: The objective of Ludo is to move all of your tokens from your starting area around the board to your home area, which is usually located in the center of the board.
+
+Movement: Players take turns rolling a single dice. The dice is rolled by pressing Enter on the keyboard. The number rolled determines how many spaces a player can move one of their tokens. Tokens move around the board in a clockwise direction.
+
+Starting: To enter a token into play, a player must roll a six. Once a six is rolled, the player places one of their tokens on the starting space and rolls again. You can roll dice again if you get a 6.
+
+Capturing: If a player's token lands on a space occupied by an opponent's token, the opponent's token is "captured" and sent back to its starting area. However, a player cannot capture their own tokens.
+
+Safe zones: Their are certain areas on the board that are safe zones where tokens cannot be captured. Tokens in these areas are protected from opponents' tokens. A safe is zone is indentified by a star or a solid color on it.
+
+Winning: The first player to move all of their tokens from the starting area to the home area wins the game.
